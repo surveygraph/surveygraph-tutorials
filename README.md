@@ -8,3 +8,5 @@ Navigate to
 * __gallery__ to see network visualisations of survey data 
 * __scripts__ for jupyter notebooks and R scripts
 * __feedback__ for a google survey to give us feedback on the package
+
+_Note that none of this material exists yet, this is simply a mockup README._
