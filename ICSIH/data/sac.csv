@@ -1,3 +1,7 @@
 u,v,weight
 "Sam","Caoimhe",6
 "Ana","Caoimhe",4
+"Paul","Sam",1
+"Sam","Ana",2
+"Ana","David",3
+"Ana","Megan",5
